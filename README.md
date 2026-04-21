@@ -1,10 +1,10 @@
 # dIAC Repository
+This repository contains the `jsPsych` scripts for the dIAC ("digitized Invented Alien Creatures"), including both the participant task and the rater task.
 
 ## Repository structure
 
 - `participant-task/`: jsPsych script for administering the dIAC to participants
 - `rater-task/`: jsPsych script for collecting ratings from external judges
-This repository contains the `jsPsych` scripts for the dIAC ("digitized Invented Alien Creatures"), including both the participant task and the rater task.
 
 ---
 
