@@ -3,8 +3,8 @@ This repository contains the `jsPsych` scripts for the dIAC ("digitized Invented
 
 ## Repository structure
 
-- `participant-task/`: jsPsych script for administering the dIAC to participants
-- `rater-task/`: jsPsych script for collecting ratings from external judges
+- `ParticipantTask/`: jsPsych script for administering the dIAC to participants
+- `RaterTask/`: jsPsych script for collecting ratings from external judges
 
 ---
 
